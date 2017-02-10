@@ -1,0 +1,27 @@
+{
+  "name": "check-es",
+  "version": "1.0.0",
+  "description": "Usefull scripts for elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frenchbread/check-es.git"
+  },
+  "keywords": [
+    "elasticsearch"
+  ],
+  "author": "Damir Mustafin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frenchbread/check-es/issues"
+  },
+  "homepage": "https://github.com/frenchbread/check-es#readme",
+  "dependencies": {
+    "elasticsearch": "^12.1.3",
+    "moment": "^2.17.1",
+    "uuid": "^3.0.1"
+  }
+}
